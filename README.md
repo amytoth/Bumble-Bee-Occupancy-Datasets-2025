@@ -5,7 +5,8 @@ This repository contains three files pertaining to bumble bee sampling efforts a
 
 Floral resource availability and surrounding landcover influence bumble bee community composition in an agricultural landscape
 
-by: Kelsey N. Shepherd, Anna M. Tucker2, and Amy L. Toth
+by: Kelsey N. Shepherd, Anna M. Tucker, and Amy L. Toth
+of Iowa State University
 
 1) visit_dat.csv
 2) site_dat.csv
